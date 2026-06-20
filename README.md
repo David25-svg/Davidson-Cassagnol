@@ -7,5 +7,4 @@ Personal portfolio website for Davidson Cassagnol.
 - style.css
 
 ## GitHub Pages
-Create a repo named `davidsoncassagnol.github.io` if this will be your main personal website.
-Upload the files, then enable GitHub Pages in Settings > Pages.
+Create a repo named `davidsoncassagnol.github.io`
